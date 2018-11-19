@@ -3,7 +3,7 @@
 <a href='https://play.google.com/store/apps/details?id=org.fossasia.phimpme' target='_blank' align="right"><img align="right" height='36' src='https://s20.postimg.org/muzx3w4jh/google_play_badge.png' /></a>
 # Phimp.me Android
 
-Phimp.me is a Photo App for Android that aims to replace proprietary photo applications. It offers features such as taking photos, adding filters, editing images and uploading them to social networks.
+Phimp.me is a Photo App for Android that aims to replace proprietary photo application. It offers features such as taking photos, adding filters, editing images and uploading them to social networks.
 
 | **Master** | **Development** | **Codecov** | **Code Quality** | **Gitter** |
 |------------|-----------------|-------------|-----------------|-----------------|
